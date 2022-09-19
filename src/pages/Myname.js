@@ -7,7 +7,6 @@ export default function Myname() {
         <h1><center>Anantha krishnan S</center></h1>
         <h1><center>Ayoor</center></h1>
         <MotherName/>
-        
     </div>
     
   )
